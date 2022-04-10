@@ -1,0 +1,40 @@
+ckpt_path=./ckpt
+exp_name=SANLNet
+iter_num=40000
+train_batch_size=4
+last_iter=0
+lr=0.0005
+lr_decay=0.9
+weight_decay=0
+momentum=0.9
+resume_snapshot=
+val_freq=50000000000
+img_size_h=272
+img_size_w=480
+crop_size=512
+snapshot_epochs=10000
+time=2022-04-10 14:26:59.852397
+
+
+[iter 1], [train loss 0.68684], [lr 0.0005000000000], [loss_net 0.18911], [loss_net 0.49773]
+[iter 2], [train loss 0.70992], [lr 0.0004999887500], [loss_net 0.22518], [loss_net 0.48473]
+[iter 3], [train loss 0.71198], [lr 0.0004999774999], [loss_net 0.23891], [loss_net 0.47307]
+[iter 4], [train loss 0.69084], [lr 0.0004999662499], [loss_net 0.23070], [loss_net 0.46014]
+[iter 5], [train loss 0.67492], [lr 0.0004999549998], [loss_net 0.22832], [loss_net 0.44659]
+[iter 6], [train loss 0.65434], [lr 0.0004999437496], [loss_net 0.21876], [loss_net 0.43558]
+[iter 7], [train loss 0.63271], [lr 0.0004999324995], [loss_net 0.20672], [loss_net 0.42598]
+[iter 8], [train loss 0.62317], [lr 0.0004999212493], [loss_net 0.20688], [loss_net 0.41629]
+[iter 9], [train loss 0.60425], [lr 0.0004999099991], [loss_net 0.19651], [loss_net 0.40774]
+[iter 10], [train loss 0.59135], [lr 0.0004998987489], [loss_net 0.19192], [loss_net 0.39943]
+[iter 11], [train loss 0.58235], [lr 0.0004998874986], [loss_net 0.19061], [loss_net 0.39174]
+[iter 12], [train loss 0.57032], [lr 0.0004998762483], [loss_net 0.18635], [loss_net 0.38397]
+[iter 13], [train loss 0.57034], [lr 0.0004998649980], [loss_net 0.19396], [loss_net 0.37638]
+[iter 14], [train loss 0.55871], [lr 0.0004998537476], [loss_net 0.18943], [loss_net 0.36928]
+[iter 15], [train loss 0.55267], [lr 0.0004998424972], [loss_net 0.19010], [loss_net 0.36256]
+[iter 16], [train loss 0.54615], [lr 0.0004998312468], [loss_net 0.18984], [loss_net 0.35631]
+[iter 17], [train loss 0.53940], [lr 0.0004998199964], [loss_net 0.18907], [loss_net 0.35033]
+[iter 18], [train loss 0.53017], [lr 0.0004998087459], [loss_net 0.18579], [loss_net 0.34439]
+[iter 19], [train loss 0.52346], [lr 0.0004997974954], [loss_net 0.18444], [loss_net 0.33902]
+[iter 20], [train loss 0.51553], [lr 0.0004997862449], [loss_net 0.18166], [loss_net 0.33387]
+[iter 21], [train loss 0.50955], [lr 0.0004997749944], [loss_net 0.18089], [loss_net 0.32866]
+[iter 22], [train loss 0.50424], [lr 0.0004997637438], [loss_net 0.18048], [loss_net 0.32375]

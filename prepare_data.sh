@@ -1,0 +1,1 @@
+python prepare_data.py --root 'dataset/sewer_compare/haze/' --label 'dataset/sewer_compare/gtlines' --save-dir 'dataset/sewer_compare/sewer_resize_100_100/' --list 'dataset/sewer_compare/data/sewerCut.lst' --prefix 'sewerCut_resize_100_100' --fixsizeW 480 --fixsizeH 272 --numangle 100 --numrho 100

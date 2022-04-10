@@ -1,0 +1,67 @@
+ckpt_path=./ckpt
+exp_name=SANLNet
+iter_num=40000
+train_batch_size=4
+last_iter=0
+lr=0.0005
+lr_decay=0.9
+weight_decay=0
+momentum=0.9
+resume_snapshot=
+val_freq=50
+img_size_h=272
+img_size_w=480
+crop_size=512
+snapshot_epochs=10000
+time=2022-04-10 15:09:31.979035
+
+
+[iter 1], [total loss 0.96356], [lr 0.0005000000000], [loss_structure 0.27198], [loss_net 0.69158]
+[iter 2], [total loss 0.92463], [lr 0.0004999887500], [loss_structure 0.24327], [loss_net 0.68136]
+[iter 3], [total loss 0.88147], [lr 0.0004999774999], [loss_structure 0.22097], [loss_net 0.66050]
+[iter 4], [total loss 0.86005], [lr 0.0004999662499], [loss_structure 0.21762], [loss_net 0.64243]
+[iter 5], [total loss 0.84107], [lr 0.0004999549998], [loss_structure 0.21522], [loss_net 0.62585]
+[iter 6], [total loss 0.82144], [lr 0.0004999437496], [loss_structure 0.20976], [loss_net 0.61168]
+[iter 7], [total loss 0.80226], [lr 0.0004999324995], [loss_structure 0.20287], [loss_net 0.59939]
+[iter 8], [total loss 0.79405], [lr 0.0004999212493], [loss_structure 0.20730], [loss_net 0.58675]
+[iter 9], [total loss 0.77423], [lr 0.0004999099991], [loss_structure 0.19917], [loss_net 0.57506]
+[iter 10], [total loss 0.75853], [lr 0.0004998987489], [loss_structure 0.19361], [loss_net 0.56492]
+[iter 11], [total loss 0.74296], [lr 0.0004998874986], [loss_structure 0.18812], [loss_net 0.55484]
+[iter 12], [total loss 0.73047], [lr 0.0004998762483], [loss_structure 0.18514], [loss_net 0.54533]
+[iter 13], [total loss 0.72042], [lr 0.0004998649980], [loss_structure 0.18485], [loss_net 0.53557]
+[iter 14], [total loss 0.70777], [lr 0.0004998537476], [loss_structure 0.18107], [loss_net 0.52670]
+[iter 15], [total loss 0.69593], [lr 0.0004998424972], [loss_structure 0.17818], [loss_net 0.51775]
+[iter 16], [total loss 0.68412], [lr 0.0004998312468], [loss_structure 0.17477], [loss_net 0.50935]
+[iter 17], [total loss 0.67333], [lr 0.0004998199964], [loss_structure 0.17223], [loss_net 0.50110]
+[iter 18], [total loss 0.66486], [lr 0.0004998087459], [loss_structure 0.17126], [loss_net 0.49360]
+[iter 19], [total loss 0.65545], [lr 0.0004997974954], [loss_structure 0.16963], [loss_net 0.48582]
+[iter 20], [total loss 0.64568], [lr 0.0004997862449], [loss_structure 0.16763], [loss_net 0.47805]
+[iter 21], [total loss 0.63702], [lr 0.0004997749944], [loss_structure 0.16592], [loss_net 0.47110]
+[iter 22], [total loss 0.62832], [lr 0.0004997637438], [loss_structure 0.16442], [loss_net 0.46390]
+[iter 23], [total loss 0.62080], [lr 0.0004997524932], [loss_structure 0.16367], [loss_net 0.45712]
+[iter 24], [total loss 0.61296], [lr 0.0004997412426], [loss_structure 0.16260], [loss_net 0.45036]
+[iter 25], [total loss 0.60560], [lr 0.0004997299919], [loss_structure 0.16172], [loss_net 0.44388]
+[iter 26], [total loss 0.59794], [lr 0.0004997187412], [loss_structure 0.16029], [loss_net 0.43765]
+[iter 27], [total loss 0.59138], [lr 0.0004997074905], [loss_structure 0.15980], [loss_net 0.43157]
+[iter 28], [total loss 0.58604], [lr 0.0004996962397], [loss_structure 0.16066], [loss_net 0.42538]
+[iter 29], [total loss 0.57994], [lr 0.0004996849890], [loss_structure 0.16042], [loss_net 0.41952]
+[iter 30], [total loss 0.57339], [lr 0.0004996737382], [loss_structure 0.15943], [loss_net 0.41396]
+[iter 31], [total loss 0.56693], [lr 0.0004996624873], [loss_structure 0.15854], [loss_net 0.40840]
+[iter 32], [total loss 0.56145], [lr 0.0004996512365], [loss_structure 0.15849], [loss_net 0.40296]
+[iter 33], [total loss 0.55610], [lr 0.0004996399856], [loss_structure 0.15837], [loss_net 0.39772]
+[iter 34], [total loss 0.54942], [lr 0.0004996287347], [loss_structure 0.15679], [loss_net 0.39263]
+[iter 35], [total loss 0.54311], [lr 0.0004996174837], [loss_structure 0.15537], [loss_net 0.38773]
+[iter 36], [total loss 0.53715], [lr 0.0004996062328], [loss_structure 0.15434], [loss_net 0.38280]
+[iter 37], [total loss 0.53200], [lr 0.0004995949818], [loss_structure 0.15397], [loss_net 0.37803]
+[iter 38], [total loss 0.52638], [lr 0.0004995837307], [loss_structure 0.15290], [loss_net 0.37348]
+[iter 39], [total loss 0.52140], [lr 0.0004995724797], [loss_structure 0.15235], [loss_net 0.36905]
+[iter 40], [total loss 0.51726], [lr 0.0004995612286], [loss_structure 0.15233], [loss_net 0.36493]
+[iter 41], [total loss 0.51252], [lr 0.0004995499775], [loss_structure 0.15182], [loss_net 0.36070]
+[iter 42], [total loss 0.50803], [lr 0.0004995387264], [loss_structure 0.15153], [loss_net 0.35650]
+[iter 43], [total loss 0.50337], [lr 0.0004995274752], [loss_structure 0.15091], [loss_net 0.35246]
+[iter 44], [total loss 0.49909], [lr 0.0004995162240], [loss_structure 0.15054], [loss_net 0.34854]
+[iter 45], [total loss 0.49451], [lr 0.0004995049728], [loss_structure 0.14987], [loss_net 0.34464]
+[iter 46], [total loss 0.49076], [lr 0.0004994937215], [loss_structure 0.14983], [loss_net 0.34093]
+[iter 47], [total loss 0.48630], [lr 0.0004994824702], [loss_structure 0.14902], [loss_net 0.33728]
+[iter 48], [total loss 0.48210], [lr 0.0004994712189], [loss_structure 0.14831], [loss_net 0.33379]
+[iter 49], [total loss 0.47806], [lr 0.0004994599676], [loss_structure 0.14777], [loss_net 0.33029]
