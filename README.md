@@ -30,7 +30,7 @@ https://github.com/ZixiaXia/SANL-Net.git
 ```
 python train.py
 ```
-The trained model is saved in the `./ckptSANLNet/`.
+The trained model is saved in the `./ckpt/SANLNet`.
 ```
 ├── ckpt/SANLNet/
 │   ├── .pth                           /* model file
