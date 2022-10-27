@@ -27,7 +27,25 @@ https://github.com/ZixiaXia/SANL-Net.git
 ```
 
 ### Train
+```
+python train.py
+```
+```
+├── ckpt/
+│   ├── .pth
+|   ├── .txt
+│   ├── (SANLNet) prediction_40000/                   
+```
+
 ### Testing
+```
+python infer.py
+```
+├── ckpt/
+│   ├── .pth
+|   ├── .txt
+│   ├── (SANLNet) prediction_40000/                   
+```
 
 ## Citation
 Please cite this paper if it helps your research:
