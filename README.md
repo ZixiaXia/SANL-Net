@@ -30,9 +30,9 @@ https://github.com/ZixiaXia/SANL-Net.git
 ```
 python train.py
 ```
-The trained model is saved in the `./ckpt`.
+The trained model is saved in the `./ckptSANLNet/`.
 ```
-├── ckpt/
+├── ckpt/SANLNet/
 │   ├── .pth                           /* model file
 |   ├── .txt                           /* log file  
 ```
@@ -41,9 +41,9 @@ The trained model is saved in the `./ckpt`.
 ```
 python infer.py
 ```
-The inferred results are saved in the `./ckpt/(SANLNet) prediction_40000`.
+The inferred results are saved in the `./ckpt/SANLNet/(SANLNet) prediction_40000`.
 ```
-├── ckpt/
+├── ckpt/SANLNet/
 │   ├── .pth                           /* model file
 |   ├── .txt                           /* log file
 │   ├── (SANLNet) prediction_40000/    /* saved results    
