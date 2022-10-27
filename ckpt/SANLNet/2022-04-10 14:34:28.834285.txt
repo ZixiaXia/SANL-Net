@@ -1,1 +1,0 @@
-[iter 91], [total loss 0.38606], [lr 0.0004989873860], [loss_structure 0.13489], [loss_net 0.25117]
