@@ -10,8 +10,8 @@
 * [Getting Started](#getting-started)
     * [Installation](#installation)
     * [Dataset Preparation](#dataset-preparation)
-    * [Testing](#testing)
-    * [Training](#training)
+    * [Train](#train)
+    * [Test](#test)
 * [Citation](#citation)
 
 ## Prerequisites
@@ -37,7 +37,7 @@ The trained model is saved in the `./ckptSANLNet/`.
 |   ├── .txt                           /* log file  
 ```
 
-### Testing
+### Test
 ```
 python infer.py
 ```
