@@ -1,6 +1,7 @@
 # SANL-Net
 
-## Structure-aware dehazing of sewer inspection images based on monocular depth cues [[Paper]]([https://arxiv.org/abs/1904.07223](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12900)
+## Structure-aware dehazing of sewer inspection images based on monocular depth cues 
+[[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12900)
 
 ![SANL-Net](https://user-images.githubusercontent.com/44375942/197808050-5b3aac17-b6df-453b-97b8-5c6019f64d6a.png)
 
