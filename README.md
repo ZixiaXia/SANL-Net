@@ -22,6 +22,10 @@
 
 ## Getting Started
 ### Installation
+```
+https://github.com/ZixiaXia/SANL-Net.git
+```
+
 ### Train
 ### Testing
 
